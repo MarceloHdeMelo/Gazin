@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gazin.Developer.WebApp", "Gazin.Developer.WebApp\Gazin.Developer.WebApp.csproj", "{281A60F8-F971-4DC5-ABBF-136AF4FBA62A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeveloperApi", "API_Crud_Gazin\DeveloperApi.csproj", "{CD83311D-78FB-4153-9AB3-928239597353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{281A60F8-F971-4DC5-ABBF-136AF4FBA62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281A60F8-F971-4DC5-ABBF-136AF4FBA62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281A60F8-F971-4DC5-ABBF-136AF4FBA62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281A60F8-F971-4DC5-ABBF-136AF4FBA62A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD83311D-78FB-4153-9AB3-928239597353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD83311D-78FB-4153-9AB3-928239597353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD83311D-78FB-4153-9AB3-928239597353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD83311D-78FB-4153-9AB3-928239597353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9E86074-33BF-4B1E-8105-D22195B3BBCE}
+	EndGlobalSection
+EndGlobal
